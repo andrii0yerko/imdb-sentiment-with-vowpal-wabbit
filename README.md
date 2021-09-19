@@ -2,7 +2,7 @@
 
 Attempt to come up with [Vowpal Wabbit](https://vowpalwabbit.org/index.html) for the classic task of IMDB reviews sentiment classification ([Kaggle](https://www.kaggle.com/c/word2vec-nlp-tutorial/leaderboard)). Training was performed on the [IMDb Largest Review Dataset](https://www.kaggle.com/ebiswas/imdb-review-dataset), which originally comes in form of 7GB JSON files.
 
-Achieved result on the test set (public LB): **0.9724** ROC AUC (with hard labels)
+Achieved result on the test set (public LB): **0.9925** ROC AUC
 
 Developed a simple api for deployment vw sentiment models.
 
